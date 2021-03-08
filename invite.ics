@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20210220T113000Z
+DTEND:20210220T143000Z
+DTSTAMP:20210206T131540Z
+ORGANIZER;CN=tensorflowindia@gmail.com:mailto:tensorflowindia@gmail.com
+UID:4d7hjsqlap7ta40hqnvi9pop0t@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=tensorflowindia@gmail.com;X-NUM-GUESTS=0:mailto:tensorflowindia@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=doncjohn.dcj@gmail.com;X-NUM-GUESTS=0:mailto:doncjohn.dcj@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:-44605465
+CREATED:20210206T131537Z
+DESCRIPTION:Hello tensors\,<br><br>Greetings. blocking your calendar for Te
+ nsorFlow Everywhere India event.<br><br>Please check <a href="https://tfeve
+ rywhere.web.app" id="ow590" __is_owner="true">TensorFlow Everywhere India w
+ ebsite</a> for Agenda and more updates.<br><br>Thanks\,<br>TFUG India team\
+ n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~::~:~::-\nPlease do not edit this section of the description.\n\nThi
+ s event has a video call.\nJoin: https://meet.google.com/wki-wafh-kjk\n\nVi
+ ew your event at https://calendar.google.com/calendar/event?action=VIEW&eid
+ =NGQ3aGpzcWxhcDd0YTQwaHFudmk5cG9wMHQgZG9uY2pvaG4uZGNqQG0&tok=MjUjdGVuc29yZm
+ xvd2luZGlhQGdtYWlsLmNvbWQ4OWM3OTI2YjZjYzEyOWEzNGU4YjA3OGFkMDU5YjQzZDFkYjNlN
+ jM&ctz=Asia%2FKolkata&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20210206T131539Z
+LOCATION:https://www.youtube.com/c/TFUGIndia
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:TensorFlow Everywhere India
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
